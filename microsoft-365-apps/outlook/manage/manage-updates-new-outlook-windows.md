@@ -38,4 +38,4 @@ The best way to see which features are coming to the new Outlook is to follow th
 
 ### Predictability and timing of Targeted Release and Standard Release
 
-In new Outlook (as with all of Microsoft 365), new features become available first in Targeted Release, and aren't rolled out to Standard Release for at least 30 days. We recommend customers use this time to prepare their organization for the update.
+In new Outlook, new features become available first in Targeted Release, and aren't rolled out to Standard Release for at least 30 days. We recommend customers use this time to prepare their organization for the update.
