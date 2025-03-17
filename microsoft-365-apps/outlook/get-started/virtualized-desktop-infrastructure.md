@@ -24,7 +24,7 @@ This article outlines the requirements, limitations, and deployment guidance for
 
 | Requirement    | Version                                                                                      |
 |----------------|----------------------------------------------------------------------------------------------|
-| **Windows**    | - Windows 10.0.17763.0 (1809) or later  </br>- Windows Server 2022 (20348.2402) or later  |
+| **Windows**    | - Windows 10.0.19041.0 (2004) or later  </br>- Windows Server 2022 (20348.2402) or later  |
 | **WebView2**   | Update to the latest version. For more information, see [Enterprise management of WebView2 Runtimes](/microsoft-edge/webview2/concepts/enterprise). |
 | **.NET Framework** | 4.7.2 or later                                                                          |
 
