@@ -16,4 +16,4 @@ ms.date: 08/23/2024
 
 # Monitor adoption of new Outlook for Windows in your organization
 
-The [Exchange email apps report](https://learn.microsoft.com/en-us/microsoft-365/admin/activity-reports/microsoft365-apps-usage-ww?view=o365-worldwide) is now updated to include new Outlook versus classic Outlook usage.
+The [Microsoft 365 Apps usage report](https://learn.microsoft.com/en-us/microsoft-365/admin/activity-reports/microsoft365-apps-usage-ww?view=o365-worldwide) is now updated to include new Outlook versus classic Outlook usage.
